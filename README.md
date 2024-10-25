@@ -1,2 +1,3 @@
-# ia_vs_tradicional_tdc
-Palestra "Diferenças entre modelos de AI e programação tradicional" apresentada no TDC Summit IA Brasília
+# Diferenças entre modelos de AI e programação tradicional
+
+Palestra "Diferenças entre modelos de AI e programação tradicional" apresentada no The Developer's Conference (TDC) Summit IA Brasília
