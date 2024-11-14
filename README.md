@@ -2,7 +2,8 @@
 
 Palestra "Diferenças entre modelos de AI e programação tradicional" apresentada no The Developer's Conference (TDC) Summit IA Brasília.
 
-*utilize o PDF, abaixo é apenas um conversão em Markdown*
+*utilize o [PDF - Portuguese](desenvolvimento_ia_vs_tradicional.pdf) ou [PDF - English - Auto translated](desenvolvimento_ia_vs_tradicional_en.pdf)
+, abaixo é apenas um conversão em Markdown*
 
 # Desenvolvimento de software tradicional versus IA
 
